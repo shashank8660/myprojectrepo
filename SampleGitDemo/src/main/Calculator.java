@@ -18,6 +18,12 @@ public class Calculator {
 	public static void prod(int num5,int num6){
 	      System.out.println(num5*num6);
 	  }
+	
+	public static void sqr(int num5){
+	      System.out.println(num5*num5);
+	  }
+	
+	
 
 
 }
