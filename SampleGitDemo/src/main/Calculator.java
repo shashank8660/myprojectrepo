@@ -14,6 +14,10 @@ public class Calculator {
 	public static void add2(int num3,int num4){
 	      System.out.println(num3+num4);
 	  }
+	
+	public static void prod(int num5,int num6){
+	      System.out.println(num5*num6);
+	  }
 
 
 }
