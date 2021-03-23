@@ -36,6 +36,10 @@ public class Calculator {
 	      System.out.println(num5*num5*num5);
 	  }
 	
+	public static void masterfunction1(int num5){
+	      System.out.println(num5*num5*num5);
+	  }
+	
 	
 
 
