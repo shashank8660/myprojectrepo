@@ -40,6 +40,14 @@ public class Calculator {
 	      System.out.println(num5*num5*num5);
 	  }
 	
+
+	public static void br1function1(int num5){
+	      System.out.println(num5*num5*num5);
+	  }
+	
+	public static void brfunction2(int num5){
+	      System.out.println(num5*num5*num5);
+	  }
 	
 
 
